@@ -1,0 +1,4 @@
+pipwin install pyaudio
+
+Your python version made changes to the bytecode')
+RuntimeError: Your python version made changes to the bytecode
